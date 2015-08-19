@@ -6,4 +6,4 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-require 'java'
+include_recipe 'java'
